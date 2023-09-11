@@ -41,7 +41,7 @@ const workSlides = {
         {
           title: 'title',
           path: '/thumb4.jpg',
-          link: '/https://leonnnx124-monolock.netlify.app/',
+          link: 'https://leonnnx124-monolock.netlify.app/',
         },
       ],
     },
