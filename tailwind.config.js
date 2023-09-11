@@ -15,10 +15,12 @@ module.exports = {
       },
     },
     screens: {
+      xs: '480px',
       sm: '640px',
       md: '768px',
       lg: '960px',
       xl: '1200px',
+      xxl: '1440px',
     },
     extend: {
       colors: {
@@ -27,7 +29,7 @@ module.exports = {
         accent: '#F13024',
       },
       backgroundImage: {
-        explosion: 'url("/bg-explosion.png")',
+        boy: 'url("/cuteboy.png")',
         circles: 'url("/bg-circles.png")',
         circleStar: 'url("/circle-star.svg")',
         site: 'url("/site-bg.svg")',
