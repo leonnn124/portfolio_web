@@ -48,7 +48,6 @@ const aboutData = [
           { id: 1, icon: <FaFigma /> },
           { id: 2, icon: <SiCanva /> },
           { id: 3, icon: <SiAdobephotoshop /> },
-          { id: 4, icon: <FaReact /> },
         ],
       },
       {
